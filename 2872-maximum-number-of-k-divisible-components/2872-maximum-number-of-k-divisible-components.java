@@ -6,7 +6,6 @@ class Solution {
         int[] values,
         int k
     ) {
-        // Step 1: Create adjacency list from edges
         List<Integer>[] adjList = new ArrayList[n];
         for (int i = 0; i < n; i++) {
             adjList[i] = new ArrayList<>();
@@ -18,13 +17,9 @@ class Solution {
             adjList[node2].add(node1);
         }
 
-        // Step 2: Initialize component count
-        int[] componentCount = new int[1]; // Use array to pass by reference
-
-        // Step 3: Start DFS traversal from node 0
+        int[] componentCount = new int[1]; 
         dfs(0, -1, adjList, values, k, componentCount);
 
-        // Step 4: Return the total number of components
         return componentCount[0];
     }
 
