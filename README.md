@@ -16,4 +16,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhinav3105/DSAProblemsLeetCode/tree/master/0001-two-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/abhinav3105/DSAProblemsLeetCode/tree/master/0386-lexicographical-numbers) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/abhinav3105/DSAProblemsLeetCode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
