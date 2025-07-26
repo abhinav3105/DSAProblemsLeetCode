@@ -36,4 +36,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhinav3105/DSAProblemsLeetCode/tree/master/0002-add-two-numbers) |
+## Database
+|  |
+| ------- |
+| [1135-customers-who-bought-all-products](https://github.com/abhinav3105/DSAProblemsLeetCode/tree/master/1135-customers-who-bought-all-products) |
 <!---LeetCode Topics End-->
