@@ -40,4 +40,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1135-customers-who-bought-all-products](https://github.com/abhinav3105/DSAProblemsLeetCode/tree/master/1135-customers-who-bought-all-products) |
+## String
+|  |
+| ------- |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/abhinav3105/DSAProblemsLeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 <!---LeetCode Topics End-->
